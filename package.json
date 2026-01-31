@@ -1,0 +1,24 @@
+{
+  "name": "chai-aur-backend_node-js",
+  "version": "1.0.0",
+  "description": "a backenend at chai or code channel",
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "homepage": "https://github.com/AmanSamraj/chai_aur_code#readme",
+  "bugs": {
+    "url": "https://github.com/AmanSamraj/chai_aur_code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmanSamraj/chai_aur_code.git"
+  },
+  "license": "ISC",
+  "author": "AmanSamraj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
