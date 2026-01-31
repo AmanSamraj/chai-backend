@@ -1,0 +1,9 @@
+ye sab nhi karna hai
+
+/.vscode
+/node_modules
+./dist
+
+*.env
+.env
+.env.*
